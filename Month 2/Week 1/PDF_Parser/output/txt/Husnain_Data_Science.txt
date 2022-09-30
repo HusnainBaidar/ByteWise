@@ -1,0 +1,194 @@
+Husnain Baidar 
+
+BS in Computer Science 
+
+A hardworking and result-oriented individual. Seeking employment in a company where I can implement my acquired
+skills and gain valuable work experience. 
+
+baidarhusnain@gmail.com 
+
++923030770008 
+
+linkedin.com/in/husnain-baidar-03215 
+
+github.com/HusnainBaidar 
+
+EDUCATION 
+
+BS in Computer Science 
+COMSATS University Islamabad 
+09/2018 - 07/2022,  
+
+SKILLS 
+
+Leadership 
+
+Adaptability 
+
+Quick learner 
+
+Python 
+
+CGPA - 3.14/4.00 
+
+Java 
+
+C/C++ 
+
+Web Programing 
+
+JavaScript 
+
+Courses 
+
+Object Oriented
+Programming 
+
+Data Structures and
+Algorithms 
+
+Design and Analysis of
+Algorithms 
+
+Data Warehousing and Data
+Mining 
+
+Topics in Computer Science 
+
+Intro to Data Science 
+
+Topics in Computer Science 2 
+
+Computational Intelligence 
+
+PROJECTS 
+
+Online Course Recommendation System (FYP)
+ (09/2021 - 06/2022) 
+
+Secured 1st  position  out  of  72  Projects  presented  at  Annual  Open  House
+COMSATS 2022. 
+Developed  a  course  recommendation  on  Python  using  COSINE  similarity.
+This FYP will help users to choose the best course by diﬀerentiating courses
+oﬀered by diﬀerent E-Learning websites 
+The  dataset  used  was  scraped  from  diﬀerent  E-learning  websites  i.e,
+Coursera, EDx, etc. For the front-end, we used React js and for the back-end
+we used Django 
+
+Spelling Checker (10/2021 - 12/2021) 
+
+Word spelling correction using CNN. 
+
+Predicting Stock Prices (09/2021 - 10/2021) 
+
+Time Series forecasting using LSTM. Used TESLA stocks to predict future
+stock prices. 
+
+Sentence Generation Using Machine Learning
+ (09/2021 - 10/2021) 
+
+Sentence generation using PyTorch and transformers to predict sentences
+based on keywords. 
+
+Sentiment analysis on: Why are CPU and GPU prices so high?
+ (05/2021 - 06/2021) 
+
+Scraped data from 25 blogs using Beautifull soup. Pre-processed the data
+using RE and stemming libraries. Extracted sentiments using sklearn
+sentiment analyzer. 
+
+Real-time Insights from Social Media Data (04/2021 - 05/2021) 
+
+Learn to analyze Twitter data and do a deep dive into a hot trend. 
+
+Data Mining (09/2020 - 12/2020) 
+
+Data cleaning, data mining and data visualizing on diﬀerent datasets from
+Kaggle. 
+
+WORK EXPERIENCE 
+
+Data Analytics Consultant 
+KPMG 
+07/2021 - 07/2021,  
+https://bit.ly/3K1oEdP 
+
+Technology Consultant 
+Deloitte 
+07/2021 - 08/2021,  
+https://bit.ly/3uPvHls 
+
+MySQL 
+
+SQLite 
+
+Jupyter Notebook 
+
+Rapid minner 
+
+Gephi 
+
+Ms Excel 
+
+Ms Access 
+
+Power Bi 
+
+ACHIEVEMENTS 
+
+Founder of PIXELS Society (03/2020 - Present) 
+Vice-President of society. 
+
+Former member of Comecs Pakistan - Wah Chapter
+ (10/2018 - 12/2019) 
+
+Organizer at Visio Spark (11/2019 - 11/2019) 
+
+Former member of WWF Pakistan (08/2014 - 08/2015) 
+
+CERTIFICATES 
+
+BigQuery Basics for Data Analysts (GOOGLE Qwiklabs)
+ (10/2020 - 11/2020) 
+https://bit.ly/3LYo9lV 
+
+BigQuery for Marketing Analysts (GOOGLE Qwiklabs)
+ (10/2020 - 11/2020) 
+https://bit.ly/37eCEDt 
+
+Data Science on Google Cloud (GOOGLE Qwiklabs)
+ (10/2020 - 11/2020) 
+https://bit.ly/38LNcui 
+
+Intro to ML: Image Processing (GOOGLE Qwiklabs)
+ (10/2020 - 11/2020) 
+https://bit.ly/3JBpD4b 
+
+Intro to ML: Language Processing (GOOGLE Qwiklabs)
+ (10/2020 - 11/2020) 
+https://bit.ly/3OhpWoi 
+
+Build a Website on Google Cloud (05/2021 - Present) 
+https://bit.ly/3Ohrbns 
+
+Serverless Firebase Development (05/2021 - Present) 
+https://bit.ly/3uJazgJ 
+
+Serverless Cloud Run Development (05/2021 - Present) 
+https://bit.ly/3xnAPi4 
+
+Complete Google Slides Course (udmey) (04/2021 - 05/2021) 
+https://bit.ly/3xmuUd7 
+
+Python (Basic) Certiﬁcate (09/2022 - Present) 
+https://www.hackerrank.com/certiﬁcates/2a9682b809c0 
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Urdu 
+Full Professional Proﬁciency 
+
+
